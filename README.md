@@ -1,4 +1,4 @@
-# zipfuzz (Ver 0.1)
+# zipfuzz
 
 Usage: zipfuzz.py [options]
 
