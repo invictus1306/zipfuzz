@@ -1,6 +1,6 @@
 # zipfuzz
 
-Simple script for fuzzing zip files, easily editable. <\br>
+Simple script for fuzzing zip files, easily editable.
 
 Usage: zipfuzz.py [options]
 
